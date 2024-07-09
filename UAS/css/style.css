@@ -1,0 +1,26 @@
+
+.navbar-nav {
+    text-align: end;
+}
+
+.navbar-nav>li>a:hover {
+    color: #ffc107;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #FFBB70;
+}
+
+.text-jumbotron {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.lead {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.gallery {
+    padding-top: 1rem;
+    background-color: #ED9455;
+}
